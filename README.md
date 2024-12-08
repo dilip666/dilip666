@@ -23,7 +23,7 @@ Welcome to My GitHub Profile! 🌟
 ---
 
 ## ⚙ Fun Facts  
-- **Machine I Use**: ASUS TUF Gaming Laptop FXDY 505  
+- **Machine I Use**: ASUS TUF Gaming Laptop FX-DY505  
 - **First Coding Language**: C  
 - **Currently Learning**: PHP, MySQL, and advanced ML techniques  
 - **Recent Project**: Face Recognition Model on Raspberry Pi for secure access systems  
@@ -32,8 +32,9 @@ Welcome to My GitHub Profile! 🌟
 
 ## 📈 Stats  
 - 💪 Self-taught and continuously learning new skills!  
-- 🏆 Won Hackathon 2022 and developed multiple innovative projects like a Sideway Parking System and a Face Recognition App.  
-- 🚀 Future Goal: Transition to a high-paying Design Engineer role or contribute to impactful projects in technology.  
+- 🏆 Won Hackathon 2022 and developed multiple innovative projects like a Sideway Parking System and a Face Recognition App.
+- 🏆 2023 GATE Qualifier.
+- 🚀 Future Goal: Transition to a SDE role or contribute to impactful projects in Software technology.  
 
 ---
 
