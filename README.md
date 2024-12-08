@@ -33,7 +33,7 @@ Welcome to My GitHub Profile! 🌟
 ## 📈 Stats  
 - 💪 Self-taught and continuously learning new skills!  
 - 🏆 Won Hackathon 2022 and developed multiple innovative projects like a Sideway Parking System and a Face Recognition App.
-- 🏆 2023 GATE Qualifier.
+- 🏆 2023 GATE Qualified.
 - 🚀 Future Goal: Transition to a SDE role or contribute to impactful projects in Software technology.  
 
 ---
@@ -42,7 +42,7 @@ Welcome to My GitHub Profile! 🌟
 ```json
 {
   "name": "Dilip Kumar Sharma",
-  "skills": ["CAD Modeling", "Circuit Design", "3D Printing", "Programming", "Machine Learning"],
+  "skills": ["STEAM Trainer" , "Programming", "Machine Learning","CAD Modeling", "Circuit Design", "3D Printing"],
   "interests": ["Gaming", "Badminton", "PC Building"],
-  "challenge": "Prepare for GATE and RRB JE exams while mastering ML and web development."
+  "challenge": "Prepare for SDE while mastering ML and web development."
 }
